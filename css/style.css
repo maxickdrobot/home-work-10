@@ -59,6 +59,8 @@ h2 {
     }
 }
 
+
+
 /* HEADER */
 .header {
     background-color: var(--primary-bg-color);
@@ -172,10 +174,6 @@ h2 {
 .hero__btn:hover {
     background-color: var(--link-hover-color);
 }
-/* 
-* {
-outline: 2px solid red !important;
-} */
 
 @media screen and (min-width: 768px) {
     
@@ -235,6 +233,8 @@ outline: 2px solid red !important;
     }
 }
 
+
+
 /* ABOUT */
 .about  {
     padding-top: 112px;
@@ -258,7 +258,6 @@ outline: 2px solid red !important;
     text-align: center;
 }
 
-
 @media screen and (max-width: 992px) {
     .about {
         padding-top: 60px;
@@ -269,6 +268,7 @@ outline: 2px solid red !important;
         margin-bottom: 40px;
     }
 }
+
 
 
 /* PROJECT */
@@ -362,7 +362,6 @@ outline: 2px solid red !important;
     min-height: 600px;
 }
 
-
 @media screen and (max-width: 960px) {
     .work-header {
         padding: 60px 3% -40px;
@@ -386,6 +385,7 @@ outline: 2px solid red !important;
         min-height: 250px;
     }
 }
+
 
 
 /* FOOTER */
