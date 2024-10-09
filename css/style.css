@@ -274,7 +274,7 @@ h2 {
 /* PROJECT */
 .project {
     background-color: var(--accent-color);
-    color: #FFF;
+    color: var(--light-color);
 }
 
 .project-container {
@@ -391,7 +391,7 @@ h2 {
 /* FOOTER */
 .footer {
     background-color: var(--accent-color);
-    color: white;
+    color: var(--light-color);
     padding: 50px 0;
 }
 
